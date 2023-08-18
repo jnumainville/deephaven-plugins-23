@@ -12,7 +12,7 @@ from ..data_mapping import DataMapping
 
 
 def export_figure(exporter: Exporter, figure: DeephavenFigure) -> bytes:
-    """Helper to export a DeephavenFigure as json
+    """Helper to export a DeephavenFigure as jsonnnnnn
 
     Args:
       exporter: Exporter: The exporter to use
